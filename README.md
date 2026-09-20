@@ -27,9 +27,9 @@ dans le Projet 3 — aucune donnée n'a été re-téléchargée ou re-nettoyée 
 - Mise en page d'un rapport BI multi-visuels
 
 ## Stack technique
-![PostgreSQL]
-![Power BI]
-![DAX]
+[PostgreSQL]
+[Power BI]
+[DAX]
 
 ## Structure du repo
 ```
