@@ -1,6 +1,6 @@
 # Mini-Projet — Dashboard Power BI 📊
 
-![Dashboard Power BI](dashboard_powerbi.png)
+![Dashboard Power BI](dashboard_powerbi.PNG)
 
 ## Contexte
 Ce mini-projet reprend le dataset UCI Online Retail, déjà exploré en Pandas (Projet 1),
